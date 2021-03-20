@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="login_form_title">Instantgram</string>
+    <string name="login_form_username">Username</string>
+    <string name="login_form_password">Password</string>
+    <string name="login_form_button">Log in</string>
+
+    <string name="welcome">Welcome To Instantgram</string>
+
+    <string name="forgot_login">Forgot your login detail?get help signing in.</string>
+    <string name="facebook_login"><a href="http://www.m.facebook.com">Log In with facebook</a></string>
+
+    <string name="sign_in">Dont have an account?Sign Up.</string>
+
+</resources>
